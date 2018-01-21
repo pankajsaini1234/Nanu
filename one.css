@@ -1,11 +1,6 @@
-.header
+.jumbotron
 {
 text-align: center;
-font-size: 60px;
+font-size: 80px;
 text-decoration: underline;
-background: -moz-linear-gradient(green,white,orange);
-}
-body
-{
-background: -moz-radial-gradient(green,orange);
 }
